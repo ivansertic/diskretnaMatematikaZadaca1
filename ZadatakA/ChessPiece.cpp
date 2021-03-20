@@ -56,6 +56,7 @@ int ChessPiece::getPositionColumn() {
 void ChessPiece::transformPositions(Position* positions[], int index) {
 
     for(int i = 0; i < index; i++){
+        // Ovdje pretvaramo idex u slovo
         switch(positions[i]->getColumn()){
             case 0:
                 std::cout<<'A';
