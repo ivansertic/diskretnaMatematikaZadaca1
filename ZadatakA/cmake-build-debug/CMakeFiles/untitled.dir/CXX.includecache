@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.cpp
+iostream
+-
+ChessPiece.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+string
+-
+Position.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.cpp
+iostream
+-
+Knight.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
+ChessPiece.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+Position.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.cpp
+Position.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
+
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/main.cpp
+iostream
+-
+Knight.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
+

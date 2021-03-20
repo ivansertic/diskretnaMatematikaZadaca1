@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/ChessPiece.cpp.o CMakeFiles/untitled.dir/Knight.cpp.o CMakeFiles/untitled.dir/Position.cpp.o  -o untitled 
