@@ -197,6 +197,33 @@ ChessPiece.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/ChessPiece.cpp.s
 .PHONY : ChessPiece.cpp.s
 
+King.o: King.cpp.o
+
+.PHONY : King.o
+
+# target to build an object file
+King.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/King.cpp.o
+.PHONY : King.cpp.o
+
+King.i: King.cpp.i
+
+.PHONY : King.i
+
+# target to preprocess a source file
+King.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/King.cpp.i
+.PHONY : King.cpp.i
+
+King.s: King.cpp.s
+
+.PHONY : King.s
+
+# target to generate assembly for a file
+King.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/King.cpp.s
+.PHONY : King.cpp.s
+
 Knight.o: Knight.cpp.o
 
 .PHONY : Knight.o
@@ -347,6 +374,9 @@ help:
 	@echo "... ChessPiece.o"
 	@echo "... ChessPiece.i"
 	@echo "... ChessPiece.s"
+	@echo "... King.o"
+	@echo "... King.i"
+	@echo "... King.s"
 	@echo "... Knight.o"
 	@echo "... Knight.i"
 	@echo "... Knight.s"

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Bishop.cpp.o"
   "CMakeFiles/untitled.dir/ChessPiece.cpp.o"
+  "CMakeFiles/untitled.dir/King.cpp.o"
   "CMakeFiles/untitled.dir/Knight.cpp.o"
   "CMakeFiles/untitled.dir/Position.cpp.o"
   "CMakeFiles/untitled.dir/Queen.cpp.o"

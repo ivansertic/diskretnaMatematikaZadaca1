@@ -16,6 +16,10 @@ string
 Position.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
 
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/King.h
+ChessPiece.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
 ChessPiece.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
@@ -45,4 +49,6 @@ Bishop.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
 Queen.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Queen.h
+King.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/King.h
 

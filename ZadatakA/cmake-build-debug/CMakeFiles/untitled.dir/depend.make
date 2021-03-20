@@ -10,6 +10,11 @@ CMakeFiles/untitled.dir/ChessPiece.cpp.o: ../ChessPiece.cpp
 CMakeFiles/untitled.dir/ChessPiece.cpp.o: ../ChessPiece.h
 CMakeFiles/untitled.dir/ChessPiece.cpp.o: ../Position.h
 
+CMakeFiles/untitled.dir/King.cpp.o: ../ChessPiece.h
+CMakeFiles/untitled.dir/King.cpp.o: ../King.cpp
+CMakeFiles/untitled.dir/King.cpp.o: ../King.h
+CMakeFiles/untitled.dir/King.cpp.o: ../Position.h
+
 CMakeFiles/untitled.dir/Knight.cpp.o: ../ChessPiece.h
 CMakeFiles/untitled.dir/Knight.cpp.o: ../Knight.cpp
 CMakeFiles/untitled.dir/Knight.cpp.o: ../Knight.h
@@ -32,6 +37,7 @@ CMakeFiles/untitled.dir/Rook.cpp.o: ../Rook.h
 
 CMakeFiles/untitled.dir/main.cpp.o: ../Bishop.h
 CMakeFiles/untitled.dir/main.cpp.o: ../ChessPiece.h
+CMakeFiles/untitled.dir/main.cpp.o: ../King.h
 CMakeFiles/untitled.dir/main.cpp.o: ../Knight.h
 CMakeFiles/untitled.dir/main.cpp.o: ../Position.h
 CMakeFiles/untitled.dir/main.cpp.o: ../Queen.h

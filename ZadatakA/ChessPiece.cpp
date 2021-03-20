@@ -54,9 +54,15 @@ int ChessPiece::getPositionColumn() {
 }
 
 void ChessPiece::transformPositions(Position* positions[], int index) {
+    int i = 0;
 
-    for(int i = 0; i < index; i++){
+    if(this->getFromQueen()){
+        i++;
+    }
+
+    for(i; i < index; i++){
         // Ovdje pretvaramo idex u slovo
+
         switch(positions[i]->getColumn()){
             case 0:
                 std::cout<<'A';
@@ -86,4 +92,13 @@ void ChessPiece::transformPositions(Position* positions[], int index) {
 
         std::cout<<positions[i]->getRow() + 1 <<std::endl;
     }
+}
+
+ChessPiece::ChessPiece(std::string position, bool fromQueen) {
+    this->setInitialPosition(position);
+    this->fromQueen = fromQueen;
+}
+
+bool ChessPiece::getFromQueen() {
+    return this->fromQueen;
 }

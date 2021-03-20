@@ -11,6 +11,7 @@ class ChessPiece {
 private:
     int positionRow;
     int positionColumn;
+    int fromQueen = false;
 
     void setInitialPosition(std::string position);
 
@@ -18,10 +19,13 @@ private:
 public:
     ChessPiece(std::string position);
 
+    ChessPiece(std::string position, bool fromQueen);
+
     int getPositionRow();
     int getPositionColumn();
     void transformPositions(Position* positions[], int index);
 
+    bool getFromQueen();
     virtual void printAttackingPositions();
 
 

@@ -10,6 +10,11 @@ CMakeFiles/untitled.dir/ChessPiece.cpp.o
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.cpp
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
+CMakeFiles/untitled.dir/King.cpp.o
+ /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+ /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/King.cpp
+ /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/King.h
+ /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
 CMakeFiles/untitled.dir/Knight.cpp.o
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.cpp
@@ -33,6 +38,7 @@ CMakeFiles/untitled.dir/Rook.cpp.o
 CMakeFiles/untitled.dir/main.cpp.o
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+ /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/King.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
  /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Queen.h
