@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
+ChessPiece.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
+
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
 string
 -
@@ -31,4 +35,6 @@ Knight.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.h
 Rook.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Rook.h
+Bishop.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
 

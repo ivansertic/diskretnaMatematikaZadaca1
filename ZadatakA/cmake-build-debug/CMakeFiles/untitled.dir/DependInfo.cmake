@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.cpp" "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/cmake-build-debug/CMakeFiles/untitled.dir/Bishop.cpp.o"
   "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.cpp" "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/cmake-build-debug/CMakeFiles/untitled.dir/ChessPiece.cpp.o"
   "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Knight.cpp" "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/cmake-build-debug/CMakeFiles/untitled.dir/Knight.cpp.o"
   "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.cpp" "/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/cmake-build-debug/CMakeFiles/untitled.dir/Position.cpp.o"

@@ -8,7 +8,7 @@
 
 #include "ChessPiece.h"
 
-class Rook : public ChessPiece{
+class Rook : virtual public ChessPiece{
 private:
     Position* movement;
 public:

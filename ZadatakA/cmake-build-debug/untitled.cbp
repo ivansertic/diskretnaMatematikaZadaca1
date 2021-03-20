@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.cpp">
 			<Option target="untitled"/>
 		</Unit>

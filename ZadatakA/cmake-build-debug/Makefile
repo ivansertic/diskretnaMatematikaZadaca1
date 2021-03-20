@@ -143,6 +143,33 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+Bishop.o: Bishop.cpp.o
+
+.PHONY : Bishop.o
+
+# target to build an object file
+Bishop.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Bishop.cpp.o
+.PHONY : Bishop.cpp.o
+
+Bishop.i: Bishop.cpp.i
+
+.PHONY : Bishop.i
+
+# target to preprocess a source file
+Bishop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Bishop.cpp.i
+.PHONY : Bishop.cpp.i
+
+Bishop.s: Bishop.cpp.s
+
+.PHONY : Bishop.s
+
+# target to generate assembly for a file
+Bishop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Bishop.cpp.s
+.PHONY : Bishop.cpp.s
+
 ChessPiece.o: ChessPiece.cpp.o
 
 .PHONY : ChessPiece.o
@@ -287,6 +314,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... Bishop.o"
+	@echo "... Bishop.i"
+	@echo "... Bishop.s"
 	@echo "... ChessPiece.o"
 	@echo "... ChessPiece.i"
 	@echo "... ChessPiece.s"
