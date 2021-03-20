@@ -24,6 +24,12 @@ Position.h
 
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Position.h
 
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Queen.h
+Bishop.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
+Rook.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Rook.h
+
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Rook.h
 ChessPiece.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/ChessPiece.h
@@ -37,4 +43,6 @@ Rook.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Rook.h
 Bishop.h
 /home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Bishop.h
+Queen.h
+/home/ivansertic/CLionProjects/DiskretnaMatematikaZadaca1/ZadatakA/Queen.h
 

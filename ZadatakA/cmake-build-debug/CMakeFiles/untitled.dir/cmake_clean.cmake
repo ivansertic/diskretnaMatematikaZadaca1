@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/ChessPiece.cpp.o"
   "CMakeFiles/untitled.dir/Knight.cpp.o"
   "CMakeFiles/untitled.dir/Position.cpp.o"
+  "CMakeFiles/untitled.dir/Queen.cpp.o"
   "CMakeFiles/untitled.dir/Rook.cpp.o"
   "CMakeFiles/untitled.dir/main.cpp.o"
   "untitled"

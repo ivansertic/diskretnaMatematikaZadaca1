@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/ChessPiece.cpp.o CMakeFiles/untitled.dir/Knight.cpp.o CMakeFiles/untitled.dir/Position.cpp.o CMakeFiles/untitled.dir/Rook.cpp.o CMakeFiles/untitled.dir/Bishop.cpp.o  -o untitled 
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/ChessPiece.cpp.o CMakeFiles/untitled.dir/Knight.cpp.o CMakeFiles/untitled.dir/Position.cpp.o CMakeFiles/untitled.dir/Rook.cpp.o CMakeFiles/untitled.dir/Bishop.cpp.o CMakeFiles/untitled.dir/Queen.cpp.o  -o untitled 
