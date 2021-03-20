@@ -9,8 +9,6 @@
 
 class Knight: public ChessPiece {
 private:
-    int columnChange;
-    int rowChange;
     Position *movement;
 
     void firstUp(Position *positions[], int &index);
@@ -19,10 +17,9 @@ private:
     void firstRight(Position *positions[], int &index);
 
 public:
-    Knight(std::string position);
+    explicit Knight(std::string position);
 
-    void printAttackingPositions();
-
+    void printAttackingPositions() override;
 
     Position* getMovements();
 };

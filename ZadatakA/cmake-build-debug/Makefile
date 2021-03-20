@@ -224,6 +224,33 @@ Position.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Position.cpp.s
 .PHONY : Position.cpp.s
 
+Rook.o: Rook.cpp.o
+
+.PHONY : Rook.o
+
+# target to build an object file
+Rook.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Rook.cpp.o
+.PHONY : Rook.cpp.o
+
+Rook.i: Rook.cpp.i
+
+.PHONY : Rook.i
+
+# target to preprocess a source file
+Rook.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Rook.cpp.i
+.PHONY : Rook.cpp.i
+
+Rook.s: Rook.cpp.s
+
+.PHONY : Rook.s
+
+# target to generate assembly for a file
+Rook.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Rook.cpp.s
+.PHONY : Rook.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -269,6 +296,9 @@ help:
 	@echo "... Position.o"
 	@echo "... Position.i"
 	@echo "... Position.s"
+	@echo "... Rook.o"
+	@echo "... Rook.i"
+	@echo "... Rook.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
