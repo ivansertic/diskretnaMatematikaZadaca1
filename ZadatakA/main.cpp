@@ -11,4 +11,6 @@ int main() {
 
     kn->printAttackingPositions();
     return 0;
+
+    //
 }
